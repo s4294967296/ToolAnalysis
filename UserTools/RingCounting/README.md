@@ -13,7 +13,7 @@ the models used (including performance etc.) see the documentation found on the 
 
 All models can be found at
 ```
-/pnfs/annie/persistent/reconstruction/RingCounting/RingCountingStore//models/
+/pnfs/annie/persistent/reconstruction/RingCounting/RingCountingStore/models/
 ```
 ---
 ## Data
